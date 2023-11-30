@@ -9,7 +9,7 @@ body {
   color: #333;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.5px; 
+  letter-spacing: 0.5px;
 }
 
 .App {
@@ -46,6 +46,7 @@ body {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
