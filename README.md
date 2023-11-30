@@ -147,6 +147,6 @@ I would like to thank Microverse for providing this interesting project and for 
 
 ## 📝 License <a name="license"></a>
 
-This project is licensed under the MIT License - you can click here to have more details [MIT](MIT.md).
+This project is licensed under the MIT License - you can click here to have more details [MIT](LICENSE).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
