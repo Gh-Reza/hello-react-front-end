@@ -1,3 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: #333;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.5px; 
+}
+
 .App {
   text-align: center;
 }
@@ -35,4 +49,15 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.container {
+  width: 50%;
+  margin: auto;
+  margin-top: 200px;
+  padding: 0 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f4f4f4;
 }

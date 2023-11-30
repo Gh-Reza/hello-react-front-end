@@ -10,7 +10,9 @@ const Greeting = () => {
     dispatch(fetchGreeting())
   }, [dispatch]);
   return (
-    <h1>{greeting}</h1>
+    <div className="container">
+      <h1>{greeting}</h1>
+    </div>
   )
 }
 
